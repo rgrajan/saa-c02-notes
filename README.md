@@ -31,7 +31,7 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ![](messaging.png)
 
 ## RDS
-![](rds.png)
+![](RDS.png)
 
 ## Governance
 ![](governance.png)
