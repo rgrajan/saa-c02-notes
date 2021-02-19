@@ -3,29 +3,38 @@ This is my notes for preparing for SAA-C02 exam.
 
 I have created notes as kind of MindMap diagram for the AWS services in scope to remember certain features for the preparation of the exam.
 
-## EC2
-![](ec2.png)
-
-## Storage
-![](storage.png)
-
-## DynamoDB
-![](dynamodb.png)
+## API Gateway
+![](apigateway.png)
 
 ## Aurora
 ![](aurora.png)
 
+## CloudFormation
+![](cloudformation.png)
+
 ## CloudFront
 ![](cloudfront.png)
 
-## ECS
+## Containerization
 ![](containerization.png)
+
+## DynamoDB
+![](dynamodb.png)
+
+## EC2
+![](ec2.png)
 
 ## ElasticCache
 ![](elasticcache.png)
 
+## Governance
+![](governance.png)
+
 ## IAM
 ![](iam.png)
+
+## Lambda
+![](lambda.png)
 
 ## Messaging
 ![](messaging.png)
@@ -33,8 +42,14 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ## RDS
 ![](RDS.png)
 
-## Governance
-![](governance.png)
+## Route53
+![](route53.png)
+
+## Storage
+![](storage.png)
+
+## Stream & BigData
+![](stream-and-bigdata.png)
 
 ## VPC
 ![](vpc.png)
