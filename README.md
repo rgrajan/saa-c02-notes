@@ -43,7 +43,7 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ![](RDS.png)
 
 ## Route53
-![](route53.png)
+![](Route53.png)
 
 ## Storage
 ![](storage.png)
