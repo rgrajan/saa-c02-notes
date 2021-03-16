@@ -15,6 +15,9 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ## CloudFront
 ![](cloudfront.png)
 
+## CloudWatch
+![](cloudwatch.png)
+
 ## Containerization
 ![](containerization.png)
 
@@ -24,14 +27,17 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ## EC2
 ![](ec2.png)
 
-## ELB
-![](elb.png)
-
 ## ElasticCache
 ![](elasticcache.png)
 
+## ELB
+![](elb.png)
+
 ## Governance
 ![](governance.png)
+
+## Hybrid-Network
+![](hybrid-network.png)
 
 ## IAM
 ![](iam.png)
