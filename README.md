@@ -34,7 +34,7 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ![](elb.png)
 
 ## General
-![](elb.png)
+![](general.png)
 
 ## Governance
 ![](governance.png)
