@@ -33,6 +33,9 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 ## ELB
 ![](elb.png)
 
+## General
+![](elb.png)
+
 ## Governance
 ![](governance.png)
 
@@ -53,6 +56,9 @@ I have created notes as kind of MindMap diagram for the AWS services in scope to
 
 ## Route53
 ![](Route53.png)
+
+## Security
+![](security.png)
 
 ## Storage
 ![](storage.png)
